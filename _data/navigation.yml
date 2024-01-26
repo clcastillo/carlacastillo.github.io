@@ -6,13 +6,12 @@ main:
   - title: "Projects"
     url: /portfolio/
 
+  - title: "Publications"
+    url: https://scholar.google.com/citations?hl=en&user=2BKGjY0AAAAJ.com
+
   - title: "CV"
 #    url: /cv/
     url: /files/CV.pdf
-    
-  - title: "Publications"
-#     url:  https://scholar.google.com/citations?hl=en&user=2BKGjY0AAAAJ.com
-#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/ 
