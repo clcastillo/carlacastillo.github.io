@@ -4,8 +4,9 @@ main:
 #    url: /cv/
     url: /files/CV.pdf
     
-#  - title: "Publications"
+  - title: "Publications"
 #    url: /publications/
+     url: https://scholar.google.com/citations?hl=en&user=2BKGjY0AAAAJ.com
 
 #  - title: "Talks"
 #    url: /talks/ 
