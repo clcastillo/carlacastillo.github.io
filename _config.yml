@@ -84,10 +84,10 @@ author:
   avatar           : "CarlaPhoto.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Seattle, WA"
-  employer         :
+  employer         :  "University of Washington"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2BKGjY0AAAAJ.com"
+  email            : "carla23@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "clcastillo"
   google_plus      :
   keybase          :
   instagram        :
