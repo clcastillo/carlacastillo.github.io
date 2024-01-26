@@ -1,5 +1,8 @@
 # main links links
-main:         
+main:  
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "CV"
 #    url: /cv/
     url: /files/CV.pdf
@@ -13,9 +16,6 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/ 
-
-#  - title: "Portfolio"
-#    url: /portfolio/
 
 # - title: "Blog Posts"
 #    url: /year-archive/
