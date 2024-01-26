@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Carla Castillo"
   avatar           : "CarlaPhoto.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at the University of Washington"
   location         : "Seattle, WA"
-  employer         :  "University of Washington"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2BKGjY0AAAAJ.com"
   email            : "carla23@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
