@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth year PhD student studying Human Centered Design and Engineering   [(HCDE)](https://pages.github.com/) at the University of Washington.
+I'm a fourth year PhD student studying Human Centered Design and Engineering ( [HCDE)](https://www.hcde.washington.edu/) ) at the University of Washington.
 
 A data-driven personal website
 ======
