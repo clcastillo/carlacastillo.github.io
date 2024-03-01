@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a 4th year PhD student studying Human Centered Design and Engineering ([HCDE](https://www.hcde.washington.edu/)) at the University of Washington advised by Sean Munson.
+I'm a 4th year PhD student studying Human Centered Design and Engineering ([HCDE](https://www.hcde.washington.edu/)) at the University of Washington advised by Sean Munson. My research interests lie in personal informatics, behavior change, and designing for health and wellness.
 
 I graduated from Cal Poly Pomona in 2020, where I got my BS in Computer Science and minor in Psychology. During my time there I worked with Dr. Ben Stiechen in the Personalized Information Interaction research lab (HAPII) to develop and study novel search systems that can support users who have multiple language abilities.
 
